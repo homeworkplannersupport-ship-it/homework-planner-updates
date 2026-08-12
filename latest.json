@@ -1,9 +1,17 @@
 {
-  "versionCode": 7,
-  "versionName": "1.3.2-beta",
-  "title": "Interaction sounds and reliability update",
-  "notes": "Interaction sounds are now clearer and work across meaningful taps, confirmations, completed work, warnings, timer controls, saves, and update actions. The update also includes sound previews, first-run notification choice, Reduce motion, native calendar export, reliable focus timing, assignment-linked grades, the updated logo, and frosted violet/cyan styling.",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.3.2-beta/HomeworkPlanner-v1.3.2-Beta-Build-7.apk",
-  "sha256": "95C26F15582F846F7E39B74ED69AECF3681ADECB68E634FE5117D806E599DE1F",
+  "versionCode": 8,
+  "versionName": "1.3.3-beta",
+  "title": "Text, updates, and reminders",
+  "notes": [
+    "Fixed corrupted apostrophes and separators that appeared as random letters and symbols.",
+    "Removed the unreliable interaction-audio system; adjustable haptics remain.",
+    "Fixed automatic update retries after failed connections.",
+    "Added a What's new summary after updates and a permanent Update log in Settings.",
+    "Added assignment-reminder timing and daily Semester Coach timing choices.",
+    "Added a test reminder and made notifications open Homework Planner when tapped.",
+    "Improved update-note compatibility and reminder rescheduling."
+  ],
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.3.3-beta/HomeworkPlanner-v1.3.3-Beta-Build-8.apk",
+  "sha256": "95FED9E9408111332708F8158953CDC2C78912F3FE7EC54E2A4DD9ED57621B8A",
   "required": false
 }
