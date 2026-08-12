@@ -1,0 +1,9 @@
+{
+  "versionCode": 6,
+  "versionName": "1.3.1-beta",
+  "title": "Homework Planner 1.3.1 Beta",
+  "notes": "Permanent signing and secure direct-update foundation.",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.3.1-beta/HomeworkPlanner-v1.3.1-Beta-Build-6-Permanent.apk",
+  "sha256": "A983285170CF80562B4B79ED6B0ABE755380C0A55530B119642E25419C746C56",
+  "required": false
+}
