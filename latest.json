@@ -1,17 +1,16 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.3-beta",
-  "title": "Text, updates, and reminders",
+  "versionCode": 9,
+  "versionName": "1.4.0-beta",
+  "title": "Smarter Semester Coach",
   "notes": [
-    "Fixed corrupted apostrophes and separators that appeared as random letters and symbols.",
-    "Removed the unreliable interaction-audio system; adjustable haptics remain.",
-    "Fixed automatic update retries after failed connections.",
-    "Added a What's new summary after updates and a permanent Update log in Settings.",
-    "Added assignment-reminder timing and daily Semester Coach timing choices.",
-    "Added a test reminder and made notifications open Homework Planner when tapped.",
-    "Improved update-note compatibility and reminder rescheduling."
+    "New: Private, on-device grade coaching for every course.",
+    "New: Identifies the weakest grade category and recommends a concrete next study step.",
+    "New: Shows a one-result or two-result path toward the target grade.",
+    "Improved: Recent grade direction appears only when enough results support it.",
+    "Improved: Every insight states how much evidence it uses.",
+    "Privacy: Coach analysis stays on the phone and does not use a cloud AI service."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.3.3-beta/HomeworkPlanner-v1.3.3-Beta-Build-8.apk",
-  "sha256": "95FED9E9408111332708F8158953CDC2C78912F3FE7EC54E2A4DD9ED57621B8A",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.4.0-beta/HomeworkPlanner-v1.4.0-Beta-Build-9.apk",
+  "sha256": "1562A8AEBDBCCCF773F6047323A238C46CF46D22286946FB4AB1ED8638C195D6",
   "required": false
 }
