@@ -1,16 +1,16 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.0-beta",
-  "title": "Smarter Semester Coach",
+  "versionCode": 10,
+  "versionName": "1.4.1-beta",
+  "title": "Reliable focus and refined updates",
   "notes": [
-    "New: Private, on-device grade coaching for every course.",
-    "New: Identifies the weakest grade category and recommends a concrete next study step.",
-    "New: Shows a one-result or two-result path toward the target grade.",
-    "Improved: Recent grade direction appears only when enough results support it.",
-    "Improved: Every insight states how much evidence it uses.",
-    "Privacy: Coach analysis stays on the phone and does not use a cloud AI service."
+    "Fixed: Focus sessions now finish with a dedicated Android alert when reminders are enabled.",
+    "Fixed: The visible version label now correctly shows 1.4.1 Beta — build 10.",
+    "Improved: The focus timer catches up correctly after screen locks or brief app switches.",
+    "Improved: The update log fits smaller screens and uses a clearer update marker.",
+    "Improved: Reduced Motion removes non-essential navigation transitions without hiding content.",
+    "Confirmed: Interaction audio remains removed; the app uses adjustable haptics and Android notification alerts."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.4.0-beta/HomeworkPlanner-v1.4.0-Beta-Build-9.apk",
-  "sha256": "1562A8AEBDBCCCF773F6047323A238C46CF46D22286946FB4AB1ED8638C195D6",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.4.1-beta/HomeworkPlanner-v1.4.1-Beta-Build-10.apk",
+  "sha256": "828C9F64985AB3569E0171452B6BADB7C05BD3736C38232FB6DF00B642E9500F",
   "required": false
 }
