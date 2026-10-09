@@ -1,15 +1,16 @@
 {
-  "versionCode": 13,
-  "versionName": "1.6.0-beta",
-  "title": "Calmer interface and sharper feedback",
+  "versionCode": 16,
+  "versionName": "1.9.0-beta",
+  "title": "Private Google backup and a personalized planner",
   "notes": [
-    "Improved: The interface uses calmer surfaces, restrained color, subtler shadows, and cleaner navigation.",
-    "Improved: The Native Beta badge is removed from Today; version details remain in Settings and the Update log.",
-    "Improved: Navigation transitions are shorter and Reduce motion can remove them completely.",
-    "Improved: Haptics use short, sharp device-tuned clicks for taps, confirmations, completions, and warnings.",
-    "Privacy: Owner-only cloud rules are prepared and tested; sign-in, sync, and cloud photos remain unavailable in this build."
+    "New: Optional Google sign-in and private Firebase backup use a separate Homework Planner account space.",
+    "Safe setup: Choose whether to use the cloud copy, move this device's planner, or start empty; data is never silently mixed.",
+    "New: First-run setup creates subjects and configures target grade, daily study capacity, reminders, haptics, and Reduce motion.",
+    "Redesigned: A cleaner Reminders-inspired interface uses clearer grouped lists, large titles, restrained colour, and improved light and dark contrast.",
+    "Improved: Sharp device-tuned haptics provide distinct tap, confirmation, completion, and warning feedback.",
+    "Offline first: The planner still works without an account or connection, and assignment photos stay on the device."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.6.0-beta/HomeworkPlanner-v1.6.0-Beta-Build-13.apk",
-  "sha256": "5E8464D1A604BC67359BC8D32BB81D9BC11F8E820DAB0FBC3B542E8A052A6927",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.9.0-beta/HomeworkPlanner-v1.9.0-Beta-Build-16.apk",
+  "sha256": "EA02E9649FB918A3813146547D0C49D39271D6C04217AD0262DEB1A94994B892",
   "required": false
 }
