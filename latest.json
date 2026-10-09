@@ -1,14 +1,15 @@
 {
-  "versionCode": 18,
-  "versionName": "1.10.1-beta",
-  "title": "Account-protected planner",
+  "versionCode": 19,
+  "versionName": "1.11.0-beta",
+  "title": "Guided setup, support tickets, and reliable updates",
   "notes": [
-    "Changed: Google sign-in is now required before the planner opens, so every active planner belongs to an isolated account profile.",
-    "Safe migration: Move existing phone data into the account, use an existing cloud planner, or deliberately start empty; copies are never silently merged.",
-    "Privacy: Photos stay on the phone, cloud records remain owner-only, and the planner continues working without a connection after account setup.",
-    "Preserved: The complete interface rebuild, grouped navigation, segmented task filters, conflict-safe sync, and sharp haptics remain included."
+    "New: Fresh installs begin with a four-part guide covering account protection, planner setup, daily planning, scanning, and support.",
+    "New: Send organized support tickets from inside the app without opening an email app; app and device details are added automatically.",
+    "Required follow-up: A valid reply email is required for every ticket, with the signed-in Google address filled in automatically.",
+    "Privacy: Planner records and photos are never attached to support tickets, and submission requires clear consent.",
+    "Improved: Update downloads show live progress, allow slow transfers, retry interrupted connections up to three times, and explain failures clearly."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.10.1-beta/HomeworkPlanner-v1.10.1-Beta-Build-18.apk",
-  "sha256": "C89F78BCE5C11C2A4A691A5EB7660E7875C41D374D8CA6B990913EC2FD2D234A",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.11.0-beta/HomeworkPlanner-v1.11.0-Beta-Build-19.apk",
+  "sha256": "70F08AD812F4DEED426852FDF9F9C655E8508E1631F3AF815D5A6EAA23E922A3",
   "required": false
 }
