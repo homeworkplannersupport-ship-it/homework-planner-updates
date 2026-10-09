@@ -1,15 +1,15 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5.1-beta",
-  "title": "Safer updates and private foundations",
+  "versionCode": 13,
+  "versionName": "1.6.0-beta",
+  "title": "Calmer interface and sharper feedback",
   "notes": [
-    "Fixed: Update verification now works correctly on Android 8 and 8.1.",
-    "Improved: Update downloads use stronger version, size, package, checksum, and signing checks.",
-    "Improved: The Update centre highlights when a newer build is available.",
-    "Privacy: Android backup is limited to the offline planner and approved preferences.",
-    "Privacy: Account-storage safeguards are prepared internally; accounts and cloud sync remain unavailable in this build."
+    "Improved: The interface uses calmer surfaces, restrained color, subtler shadows, and cleaner navigation.",
+    "Improved: The Native Beta badge is removed from Today; version details remain in Settings and the Update log.",
+    "Improved: Navigation transitions are shorter and Reduce motion can remove them completely.",
+    "Improved: Haptics use short, sharp device-tuned clicks for taps, confirmations, completions, and warnings.",
+    "Privacy: Owner-only cloud rules are prepared and tested; sign-in, sync, and cloud photos remain unavailable in this build."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.5.1-beta/HomeworkPlanner-v1.5.1-Beta-Build-12.apk",
-  "sha256": "42D6ABCB7315A517AB45913DAD9074064B0CCE8AA7D12A1BAC795B53B81CC473",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.6.0-beta/HomeworkPlanner-v1.6.0-Beta-Build-13.apk",
+  "sha256": "5E8464D1A604BC67359BC8D32BB81D9BC11F8E820DAB0FBC3B542E8A052A6927",
   "required": false
 }
