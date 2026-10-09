@@ -1,15 +1,14 @@
 {
-  "versionCode": 17,
-  "versionName": "1.10.0-beta",
-  "title": "A real interface rebuild",
+  "versionCode": 18,
+  "versionName": "1.10.1-beta",
+  "title": "Account-protected planner",
   "notes": [
-    "Redesigned: Today now has an iOS-style overview grid plus focused Today, Next, and Suggestions sections instead of a recoloured dashboard.",
-    "Redesigned: The app now uses a standard edge-to-edge tab bar, compact segmented task filters, grouped utility lists, large titles, and flatter surfaces.",
-    "Cloud: Google sign-in is live in the separate foxlabs-homework-planner Firebase project with isolated per-account storage.",
-    "Cloud safety: Explicit copy selection, revision checks, launch sync, conflict blocking, and final sign-out sync protect planner data.",
-    "Privacy: Homework Planner remains fully usable offline, never mixes accounts, blocks unauthenticated cloud reads, and keeps photos on the device."
+    "Changed: Google sign-in is now required before the planner opens, so every active planner belongs to an isolated account profile.",
+    "Safe migration: Move existing phone data into the account, use an existing cloud planner, or deliberately start empty; copies are never silently merged.",
+    "Privacy: Photos stay on the phone, cloud records remain owner-only, and the planner continues working without a connection after account setup.",
+    "Preserved: The complete interface rebuild, grouped navigation, segmented task filters, conflict-safe sync, and sharp haptics remain included."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.10.0-beta/HomeworkPlanner-v1.10.0-Beta-Build-17.apk",
-  "sha256": "7E1DD5728A35D0AD9A7CCCF873B86741EC4371881A34167E69F592C649B08C3D",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.10.1-beta/HomeworkPlanner-v1.10.1-Beta-Build-18.apk",
+  "sha256": "C89F78BCE5C11C2A4A691A5EB7660E7875C41D374D8CA6B990913EC2FD2D234A",
   "required": false
 }
