@@ -1,16 +1,15 @@
 {
-  "versionCode": 10,
-  "versionName": "1.4.1-beta",
-  "title": "Reliable focus and refined updates",
+  "versionCode": 12,
+  "versionName": "1.5.1-beta",
+  "title": "Safer updates and private foundations",
   "notes": [
-    "Fixed: Focus sessions now finish with a dedicated Android alert when reminders are enabled.",
-    "Fixed: The visible version label now correctly shows 1.4.1 Beta — build 10.",
-    "Improved: The focus timer catches up correctly after screen locks or brief app switches.",
-    "Improved: The update log fits smaller screens and uses a clearer update marker.",
-    "Improved: Reduced Motion removes non-essential navigation transitions without hiding content.",
-    "Confirmed: Interaction audio remains removed; the app uses adjustable haptics and Android notification alerts."
+    "Fixed: Update verification now works correctly on Android 8 and 8.1.",
+    "Improved: Update downloads use stronger version, size, package, checksum, and signing checks.",
+    "Improved: The Update centre highlights when a newer build is available.",
+    "Privacy: Android backup is limited to the offline planner and approved preferences.",
+    "Privacy: Account-storage safeguards are prepared internally; accounts and cloud sync remain unavailable in this build."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.4.1-beta/HomeworkPlanner-v1.4.1-Beta-Build-10.apk",
-  "sha256": "828C9F64985AB3569E0171452B6BADB7C05BD3736C38232FB6DF00B642E9500F",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.5.1-beta/HomeworkPlanner-v1.5.1-Beta-Build-12.apk",
+  "sha256": "42D6ABCB7315A517AB45913DAD9074064B0CCE8AA7D12A1BAC795B53B81CC473",
   "required": false
 }
