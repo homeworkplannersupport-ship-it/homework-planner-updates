@@ -1,16 +1,14 @@
 {
-  "versionCode": 20,
-  "versionName": "1.12.0-beta",
-  "title": "Side navigation, calmer creation, and safer cleanup",
+  "versionCode": 21,
+  "versionName": "1.13.0-beta",
+  "title": "Recurring homework and support fix",
   "notes": [
-    "Redesigned: Swipe from the left edge for the new side navigation, with animated section changes and no bottom bar.",
-    "Redesigned: Add Homework is now a calm three-step flow that starts with only the title and course.",
-    "Improved: Tap Feedback is one simple on/off setting with a stronger spring-like response.",
-    "New: Removed homework stays in a recoverable archive for seven days; completed work remains separately restorable.",
-    "New: A One UI-compatible home-screen widget shows due-today, overdue, upcoming, and next-homework information.",
-    "Improved: Export every active assignment to the native calendar at once; local JSON backup controls were removed."
+    "New: Repeat homework daily, weekly, every two weeks, or monthly.",
+    "Automatic: Completing recurring homework creates its next occurrence, with duplicate protection.",
+    "Reliable: Repeat schedules are saved in your private planner backup.",
+    "Fixed: Support tickets include the required public form URL to resolve the web-server error."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.12.0-beta/HomeworkPlanner-v1.12.0-Beta-Build-20.apk",
-  "sha256": "8530CF5629AD28A2F209295B9367B893B2EDA232BD21608CB526FA16A6A6C7BE",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.13.0-beta/HomeworkPlanner-v1.13.0-Beta-Build-21.apk",
+  "sha256": "B88DDC01064037C6E1B61B565D60782783F593CED4F03AAADBB4DBF829A6BBF8",
   "required": false
 }
