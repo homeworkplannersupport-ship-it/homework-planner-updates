@@ -1,15 +1,16 @@
 {
-  "versionCode": 19,
-  "versionName": "1.11.0-beta",
-  "title": "Guided setup, support tickets, and reliable updates",
+  "versionCode": 20,
+  "versionName": "1.12.0-beta",
+  "title": "Side navigation, calmer creation, and safer cleanup",
   "notes": [
-    "New: Fresh installs begin with a four-part guide covering account protection, planner setup, daily planning, scanning, and support.",
-    "New: Send organized support tickets from inside the app without opening an email app; app and device details are added automatically.",
-    "Required follow-up: A valid reply email is required for every ticket, with the signed-in Google address filled in automatically.",
-    "Privacy: Planner records and photos are never attached to support tickets, and submission requires clear consent.",
-    "Improved: Update downloads show live progress, allow slow transfers, retry interrupted connections up to three times, and explain failures clearly."
+    "Redesigned: Swipe from the left edge for the new side navigation, with animated section changes and no bottom bar.",
+    "Redesigned: Add Homework is now a calm three-step flow that starts with only the title and course.",
+    "Improved: Tap Feedback is one simple on/off setting with a stronger spring-like response.",
+    "New: Removed homework stays in a recoverable archive for seven days; completed work remains separately restorable.",
+    "New: A One UI-compatible home-screen widget shows due-today, overdue, upcoming, and next-homework information.",
+    "Improved: Export every active assignment to the native calendar at once; local JSON backup controls were removed."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.11.0-beta/HomeworkPlanner-v1.11.0-Beta-Build-19.apk",
-  "sha256": "70F08AD812F4DEED426852FDF9F9C655E8508E1631F3AF815D5A6EAA23E922A3",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.12.0-beta/HomeworkPlanner-v1.12.0-Beta-Build-20.apk",
+  "sha256": "8530CF5629AD28A2F209295B9367B893B2EDA232BD21608CB526FA16A6A6C7BE",
   "required": false
 }
