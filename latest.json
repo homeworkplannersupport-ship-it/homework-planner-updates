@@ -1,14 +1,15 @@
 {
-  "versionCode": 21,
-  "versionName": "1.13.0-beta",
-  "title": "Recurring homework and support fix",
+  "versionCode": 22,
+  "versionName": "1.14.0-beta",
+  "title": "Widgets, overdue reminders and support",
   "notes": [
-    "New: Repeat homework daily, weekly, every two weeks, or monthly.",
-    "Automatic: Completing recurring homework creates its next occurrence, with duplicate protection.",
-    "Reliable: Repeat schedules are saved in your private planner backup.",
-    "Fixed: Support tickets include the required public form URL to resolve the web-server error."
+    "New: Resizable homework agenda widget with dates, status and estimates.",
+    "Improved: Separate controls for overdue, advance, guidance and optional practice reminders.",
+    "New: Overdue review link and Android notification settings shortcut.",
+    "Fixed: Corrected support submission format and added a direct website feedback-form link.",
+    "Testing: Device notification delivery and widget sizing still need real-phone checks."
   ],
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.13.0-beta/HomeworkPlanner-v1.13.0-Beta-Build-21.apk",
-  "sha256": "B88DDC01064037C6E1B61B565D60782783F593CED4F03AAADBB4DBF829A6BBF8",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/homework-planner-updates/releases/download/v1.14.0-beta/HomeworkPlanner-v1.14.0-Beta-Build-22.apk",
+  "sha256": "0EA54D1A5AA9899AFB2FE6E7DDC61204F85660082D97F4351F0FB8301F04D3CE",
   "required": false
 }
